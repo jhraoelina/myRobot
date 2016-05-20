@@ -1,5 +1,7 @@
 This is a text File for Paramaters
 --> Allumage
---> Injection
+--> Injection Electronique
 --> Echappement
 --> Peinture
+--> Filtre à huile
+--> Filtre à carburant
